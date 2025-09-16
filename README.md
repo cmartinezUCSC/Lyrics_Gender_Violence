@@ -1,5 +1,6 @@
 # Lyrics_Gender_Violence
-Corpus with lyrics of songs in Spanish labelled with gender violence
+Corpus with lyrics of songs in Spanish labelled with gender based violence (GBV).
+Collab to generate a GBV detection model based on BETO.
 
 
 
